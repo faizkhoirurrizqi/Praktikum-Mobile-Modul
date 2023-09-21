@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Main Activity</string>
+    <string name="button_main">Kirim</string>
+    <string name="text_header">Massage Recive</string>
+    <string name="editText_main">Write your Massage</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Recived</string>
+</resources>
